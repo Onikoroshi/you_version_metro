@@ -9,4 +9,4 @@ To get the app up and running:
 * Answer "Yes" to the superuser question
 * `rake db:create`
 * `rails s`
-* visit [http://localhost:3000/](http://localhost:3000/)
+* visit http://localhost:3000/
