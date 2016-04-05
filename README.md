@@ -1,5 +1,3 @@
-== README
-
 * Ruby Version - ruby 2.1.2p95
 
 To get the app up and running:
